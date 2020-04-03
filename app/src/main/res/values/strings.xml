@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+
+
+    <string-array name="hints">
+        <item>A2305217544</item>
+        <item>Tejasvi Soi</item>
+        <item>5CSE8</item>
+        <item>B.tech</item>
+        <item>CSE</item>
+    </string-array>
+
+    <string-array name="textfield">
+        <item>Full Name</item>
+        <item>Mobile Number</item>
+        <item>Nationality</item>
+
+        <item>Email:</item>
+    </string-array>
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
